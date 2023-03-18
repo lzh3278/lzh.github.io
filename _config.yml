@@ -85,7 +85,7 @@ author:
   bio              : "Wosi Guwozai"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=v66rmnsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : aar3278
 
 
 # Reading Files
