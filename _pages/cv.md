@@ -84,5 +84,5 @@ Service and leadership
 
 Skills
 ======
-Language Skills: Mandarin Chinese (Native), English (IELTS Overall Band Score 7.0).
-Programming and Software Proficiency: Python, R, MySQL, MS Office, Stata, ArcGIS, Tableau, SPSS, Mplus.
+* Language Skills: Mandarin Chinese (Native), English (IELTS Overall Band Score 7.0).  
+* Programming and Software Proficiency: Python, R, MySQL, MS Office, Stata, ArcGIS, Tableau, SPSS, Mplus.
