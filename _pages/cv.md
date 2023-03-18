@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 *Last modified: 2022/3/18 22:57:03*  
-You may also find the Chinese version [here](https://lzh3278.github.io/cvCHN/).  
+您可点击[此处](https://lzh3278.github.io/cv/chn/)查看中文版本.  
 
 Education
 ======
