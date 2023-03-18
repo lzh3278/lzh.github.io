@@ -19,7 +19,8 @@ About My Research
 My research interest is the complex system of environment-energy-economy in both macro and individual prespectives. At present, I am delving into several exciting topics:
 * Household water-energy nexus and managements on its related resource consumption and wastewater generation,
 * The decision-making mechanism of individual environmental behaviors and the impact of communities on the decisions,
-* Environment computing using machine learning algorithms.  
+* Environment computing using machine learning algorithms.
+  
 I am passionate about using my skills and knowledge to contribute to creating a sustainable future, and I believe that these research areas hold significant promise in this regard. 
 
 Recent News
