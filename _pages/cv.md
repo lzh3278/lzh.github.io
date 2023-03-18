@@ -36,7 +36,7 @@ Awards and Honors
 * SINOPEC Scholarship (2019.12)
 
 
-Research experience
+Research Experiences
 ======
 * Sep. 2021 - Now: Research Assistant
   * Tsinghua University.
@@ -53,7 +53,7 @@ Research experience
   * Research purpose: to assess and quantify the effectiveness of the coal-to-gas policies in Beijing.
   * Supervisor: Professor Jianliang Wang.
   
-Publications and Original research work
+Publications and Original Research Works
 ======
 * Journal articles  
     * Li, Z., Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
@@ -70,7 +70,7 @@ Publications and Original research work
     * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
     * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
   
-Service and leadership
+Service and Leadership
 ======
 * Teaching Staff: 
   * Social Computing (70670343), Coding helper, 2023 Spring.
