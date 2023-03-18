@@ -53,7 +53,7 @@ Research experience
   * Research purpose: to assess and quantify the effectiveness of the coal-to-gas policies in Beijing.
   * Supervisor: Professor Jianliang Wang.
   
-Publications
+Publications and Original research work
 ======
 * Journal articles  
     * Li, Z., Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
@@ -66,6 +66,9 @@ Publications
     * Li, Z., Wang, C., Liu. Y. CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels.
     * Li, Z., Wang, C., Liu. Y. et al. Enhance household water consumption prediction by water-energy nexus concept.
     * Wang, C., Liu, Y., Li, Z. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
+* Research projects
+    * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
+    * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
   
 Service and leadership
 ======
@@ -80,6 +83,6 @@ Service and leadership
   * President of English Assocation in CUP.
 
 Skills
-------
+======
 Language Skills: Mandarin Chinese (Native), English (IELTS Overall Band Score 7.0).
 Programming and Software Proficiency: Python, R, MySQL, MS Office, Stata, ArcGIS, Tableau, SPSS, Mplus.
