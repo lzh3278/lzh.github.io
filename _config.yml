@@ -244,7 +244,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _publications
+  - scope:
+      path: ""
+      type: experiences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
