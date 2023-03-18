@@ -15,7 +15,7 @@ Graduate research assistant at Tsinghua University
 * Period: Sep.2021 - Now
 
 Research assistant at China University of Petroleum
-* Department: School of Environment
+* Department: School of Economics and Management
 * Period: Sep.2021 - Now
 
 Professional Experience
