@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zonghan Li 李宗瀚"
+title                    : "Zonghan Li  李宗瀚"
 title_separator          : "-"
 name                     : &name "Zonghan Li"
-description              : &description "Wosi Guwozai"
+description              : &description "Wosi Guwozai（我司雇我在）"
 url                      : https://lzh3278.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lzh3278/lzh3278.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zonghan Li"
   avatar           : "profile.png"
-  bio              : "Wosi Guwozai"
+  bio              : "Wosi Guwozai（我司雇我在）"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
