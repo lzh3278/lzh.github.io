@@ -39,31 +39,20 @@ Awards and Honors
 Research experience
 ======
 * Sep. 2021 - Now: Research Assistant
-  * Tsinghua University
+  * Tsinghua University.
   * Project: High-resolution simulation of urban household water-energy nexus based on consumption activities.
-  * Supervisor: Professor Yi Liu
+  * Supervisor: Professor Yi Liu.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Yumo Wang
+* May 2020 - Apr.2021: Research Assistant
+  * China University of Petroleum-Beijing.
+  * Research purpose: to forecast the energy consumption using a time-series regression model combined with deep learning and econometrics.
+  * Supervisor: Professor Yumo Wang.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Jianliang Wang
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
+* Feb.2020 - Aug.2020: Research Assistant
+  * China University of Petroleum-Beijing.
+  * Research purpose: to assess and quantify the effectiveness of the coal-to-gas policies in Beijing.
+  * Supervisor: Professor Jianliang Wang.
+  
 Publications
 ======
 * Journal articles  
@@ -81,11 +70,16 @@ Publications
 Service and leadership
 ======
 * Teaching Staff: 
-  * Social Computing (70670343), Coding helper, 2023 Spring
-  * System Thinking and Big Data for Environment (00050131), Teaching Assistant, 2022 Fall
+  * Social Computing (70670343), Coding helper, 2023 Spring.
+  * System Thinking and Big Data for Environment (00050131), Teaching Assistant, 2022 Fall.
 * Management Assistant: 
-  * Dean's Assistant, 2023 Spring
+  * Dean's Assistant, 2023 Spring.
 * Leadership:
   * Associate editor of the special issue on carbon neutrality of *T+Z Technology Reveiw*, a journal of Tsinghua University.
   * League branch secretary of Energy Economy Grade 2018 in CUP. Awarded **Outstanding league branch of Beijing**.
   * President of English Assocation in CUP.
+
+Skills
+------
+Language Skills: Mandarin Chinese (Native), English (IELTS Overall Band Score 7.0).
+Programming and Software Proficiency: Python, R, MySQL, MS Office, Stata, ArcGIS, Tableau, SPSS, Mplus.
