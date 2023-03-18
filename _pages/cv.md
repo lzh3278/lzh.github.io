@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Last updated: 2022/3/18 19:00:00
+You may also find the Chinese version [here](https://lzh3278.github.io/cvCHN/).  
+
 Education
 ======
 **MEng. in Environmental Planning and Management, Tsinghua University, 2022-**
