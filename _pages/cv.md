@@ -66,15 +66,26 @@ Skills
 
 Publications
 ======
-* Publications  
+* Journal articles  
     * Li, Z., Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
     * Wang, J., Li, Z., Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.19).  
     * Yu, J., Wang, J., Li, Z. et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
 * Conference papers
     * Li, Z. (speaker), Wang, C., Liu. Y. Predicting annual household water consumption using the water-energy nexus concept. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.  
     * Li, Z. (speaker), Wang, C., Liu, Y. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.
-
+* Paper in peer review
+    * Li, Z., Wang, C., Liu. Y. CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels.
+    * Li, Z., Wang, C., Liu. Y. et al. Enhance household water consumption prediction by water-energy nexus concept.
+    * Wang, C., Liu, Y., Li, Z. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
+  
 Service and leadership
 ======
-* Teaching Assistant: System Thinking and Big Data for Environment (00050131), 2022 Fall
-* Management Assistant: Assistant to the dean of School of Environment, Tsinghua University, 2023 Spring
+* Teaching Staff: 
+  * Social Computing (70670343), Coding helper, 2023 Spring
+  * System Thinking and Big Data for Environment (00050131), Teaching Assistant, 2022 Fall
+* Management Assistant: 
+  * Dean's Assistant, 2023 Spring
+* Leadership:
+  * Associate editor of the special issue on carbon neutrality of *T+Z Technology Reveiw*, a journal of Tsinghua University.
+  * League branch secretary of Energy Economy Grade 2018 in CUP. Awarded **Outstanding league branch of Beijing**.
+  * President of English Assocation in CUP.
