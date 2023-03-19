@@ -3,9 +3,6 @@ main:
   
   - title: "Research"
     url: /research/
-  
-  - title: "Experiences"
-    url: /experiences/
 
   - title: "Publications"
     url: /publications/
