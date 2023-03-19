@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 **MEng. in Environmental Planning and Management, Tsinghua University, 2022-**
-* Overall GPA: 3.93/4.00；Core courses GPA (all courses except for ideological and political education): 4.00/4.00.
+* Overall GPA: 3.93/4.00; Core courses GPA (all courses except for ideological and political education): 4.00/4.00.
 * Core courses: Advanced Statistics (A), Ecology Data Analysis (A), Structural Equation Modelling (A), Energy Economics and Policy (A).
 
 **Bachelor of Economics in Energy Economy, China University of Petroleum - Beijing, 2018-2022**
