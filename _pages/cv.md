@@ -20,7 +20,7 @@ Education
 
 **Bachelor of Economics in Energy Economy, China University of Petroleum - Beijing, 2018-2022**
 * Overall GPA: 4.25/5.00, Ranking: 1/46.
-* Core courses: Energy Economics (92), Energy Finance (97), Microeconomics (100), Macroeconomics (99), Econometrics (100), Python Programming (100).
+* Core courses: Energy Economics (92), Energy Finance (97), Energy Policy and Strategy (99), Energy Law (98), Microeconomics (100), Macroeconomics (99), Econometrics (100), Python Programming (100), International Finance (98), Finance and Investment (100).
 * Oversea exchange: University of Dundee, UK (2021 Fall), South Ural State University, Russia (2019 Fall)
 
 
