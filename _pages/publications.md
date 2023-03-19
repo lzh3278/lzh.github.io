@@ -10,9 +10,9 @@ You may also find my articles on [my Google Scholar profile](https://scholar.goo
 Journal Article
 ------
 * **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**.  
-  **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Detailed Information]](https://lzh3278.github.io/publication/ijepes2022)
+  **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
 * **Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing**.  
-  Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environ Sci Pollut Re*, (2021) 28, 57667–57685.  [[Detailed Information]](https://lzh3278.github.io/publication/espr2021)
+  Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environ Sci Pollut Re*, (2021) 28, 57667–57685.  [[Details]](https://lzh3278.github.io/publication/espr2021)
 
 Conferences
 ------
@@ -29,4 +29,4 @@ Book Chapters
 Thesis
 ------
 * **Characteristics of household water-use electric appliances and their impact on water-related energy consumption based on multi-source database**.  
-  Undergraduate Thesis. Awarded "**Outstanding Undergraduate Thesis of Beijing**" and "**Outstanding Undergraduate Thesis of CUP**". [[Detailed Information]](https://lzh3278.github.io/publication/UndergraduateThesis)
+  Undergraduate Thesis. Awarded "**Outstanding Undergraduate Thesis of Beijing**" and "**Outstanding Undergraduate Thesis of CUP**". [[Details]](https://lzh3278.github.io/publication/UndergraduateThesis)
