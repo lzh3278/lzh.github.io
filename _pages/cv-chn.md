@@ -8,17 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+*中文页面正在维护*
 
 教育经历
 ======
 **清华大学工学硕士，环境规划与管理，2022-至今**
 * 总体GPA：3.93/4.00；除思政课外GPA：4.00/4.00
-* 核心课程：高级统计学（A），生态数据分析（A），结构方程模型应用（A），能源经济学与政策（A）
+* 核心课程：环境系统建模理论与复杂模型（上课中），环境经济（上课中），社会计算（上课中），高级统计学（A），生态数据分析（A），结构方程模型应用（A），能源经济学与政策（A）
 
 **中国石油大学（北京）经济学学士，能源经济，2018-2022**
 * 总体GPA：4.25/5.00, 排名: 1/46.
-* Core courses: Energy Economics (92), Energy Finance (97), Microeconomics (100), Macroeconomics (99), Econometrics (100), Python Programming (100).
-* Oversea exchange: University of Dundee, UK (2021 Fall), South Ural State University, Russia (2019 Fall)
+* 核心课程：能源经济学 (92)，能源金融 (97)，能源战略与政策 (99)，能源法 (98)，国际石油经济学 (97)，微观经济学 (100)，宏观经济学 (99)，计量经济学 (100)，Python编程 (100)，国际金融 (98)，金融与投资 (100)，金融衍生工具 (99).
+* 海外交流: University of Dundee, 英国（2021年秋季学期）；South Ural State University，俄罗斯（2019年秋季学期）
 
 
 荣誉奖项
