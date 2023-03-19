@@ -20,7 +20,7 @@ Education
 
 **Bachelor of Economics in Energy Economy, China University of Petroleum - Beijing, 2018-2022**
 * Overall GPA: 4.25/5.00, Ranking: 1/46.
-* Core courses: Energy Economics (92), Energy Finance (97), Energy Policy and Strategy (99), Energy Law (98), Microeconomics (100), Macroeconomics (99), Econometrics (100), Python Programming (100), International Finance (98), Finance and Investment (100).
+* Core courses: Energy Economics (92), Energy Finance (97), Energy Policy and Strategy (99), Energy Law (98), Microeconomics (100), Macroeconomics (99), Econometrics (100), Python Programming (100), International Finance (98), Finance and Investment (100), Financial Derivatives (99).
 * Oversea exchange: University of Dundee, UK (2021 Fall), South Ural State University, Russia (2019 Fall)
 
 
@@ -69,7 +69,12 @@ Publications and Original Research Works
 * Research projects
     * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
     * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
-  
+
+Professional Experiences
+======
+* Oct.2021 - Jan.2022: Intern
+  * Department of Science, Technology, and Finance, Ministry of Ecology and Environment of PRC
+
 Service and Leadership
 ======
 * Teaching Staff: 
