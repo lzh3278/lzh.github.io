@@ -13,7 +13,7 @@ redirect_from:
 您可点击[此处](https://lzh3278.github.io/cv/chn)查看中文版本.  
 
 Education
-======
+------
 **MEng. in Environmental Planning and Management, Tsinghua University, 2022-**
 * Overall GPA: 3.93/4.00; Core courses GPA (all courses except for ideological and political education): 4.00/4.00.
 * Core courses: Environmental Systems Modeling (attending), Environmental Economics (attending), Social Computing (attending), Advanced Statistics (A), Ecology Data Analysis (A), Structural Equation Modeling (A), Energy Economics and Policy (A).
@@ -25,7 +25,7 @@ Education
 
 
 Awards and Honors
-======
+------
 * National Scholarship (2021.11)
 * National Scholarship (2020.11)
 * Outstanding Undergraduate Theis of Beijing (2022.11)
@@ -37,7 +37,7 @@ Awards and Honors
 
 
 Research Experiences
-======
+------
 * Sep. 2021 - Now: Research Assistant
   * Tsinghua University.
   * Project: High-resolution simulation of urban household water-energy nexus based on consumption activities.
@@ -54,7 +54,7 @@ Research Experiences
   * Supervisor: Professor Jianliang Wang.
   
 Publications and Original Research Works
-======
+------
 * Journal articles  
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
     * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.19).  
@@ -71,12 +71,12 @@ Publications and Original Research Works
     * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
 
 Professional Experiences
-======
+------
 * Oct.2021 - Jan.2022: Intern
   * Department of Science, Technology, and Finance, Ministry of Ecology and Environment of PRC
 
 Service and Leadership
-======
+------
 * Teaching Staff: 
   * Social Computing (70670343), Coding helper, 2023 Spring.
   * System Thinking and Big Data for Environment (00050131), Teaching Assistant, 2022 Fall.
@@ -88,6 +88,6 @@ Service and Leadership
   * President of English Assocation in CUP.
 
 Skills
-======
+------
 * Language Skills: Mandarin Chinese (Native), English (IELTS Overall Band Score 7.0).  
 * Programming and Software Proficiency: Python, R, MySQL, MS Office, Stata, ArcGIS, Tableau, SPSS, Mplus.
