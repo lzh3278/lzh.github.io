@@ -5,7 +5,7 @@ permalink: /publication/ijepes2022
 excerpt: 'Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity'
 date: 2022-09-01
 venue: 'International Journal of Electrical Power & Energy Systems'
-paperurl: 'http://academicpages.github.io/files/ijepes2022.pdf'
+paperurl: 'http://lzh3278.github.io/files/ijepes2022.pdf'
 citation: 'Li, Z., Ye, H., Liao, N., Wang, R., Qiu, Y., and Wang, Y. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. International Journal of Electrical Power & Energy Systems 140, 108084.'
 ---
 
