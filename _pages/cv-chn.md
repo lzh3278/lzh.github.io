@@ -8,17 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
-*中文页面正在维护*
+*中文页面正在维护，最近更新于2023年6月30日*
 
 教育经历
 ------
-**清华大学工学硕士，环境规划与管理，2022-至今**
-* 总体GPA：3.93/4.00；除思政课外GPA：4.00/4.00
-* 核心课程：环境系统建模理论与复杂模型（上课中），环境经济（上课中），社会计算（上课中），高级统计学（A），生态数据分析（A），结构方程模型应用（A），能源经济学与政策（A）
+**清华大学，工学硕士研究生，环境学院，2022-至今**
+* 总体GPA：3.97/4.00；除思政课外GPA：4.00/4.00
+* 核心课程：环境经济（A），能源经济学与政策（A），社会计算（A），高级统计学（A），生态数据分析（A），机器学习（A），结构方程模型应用（A）
+* 国际交流：参加Watermatex（2023年加拿大）、icRs（2023年英国）、CUE（2022年日本）等国际学术会议并展示
 
-**中国石油大学（北京）经济学学士，能源经济，2018-2022**
+**中国石油大学（北京），经济学学士，经济管理学院，2018-2022**
 * 总体GPA：4.25/5.00, 排名: 1/46.
-* 核心课程：能源经济学 (92)，能源金融 (97)，能源战略与政策 (99)，能源法 (98)，国际石油经济学 (97)，微观经济学 (100)，宏观经济学 (99)，计量经济学 (100)，Python编程 (100)，国际金融 (98)，金融与投资 (100)，金融衍生工具 (99).
+* 核心课程：能源经济学 (92)，能源金融 (97)，能源战略与政策 (99)，能源法 (98)，国际石油经济学 (97)，微观经济学 (100)，宏观经济学 (99)，计量经济学 (100)，Python编程 (100)，国际金融 (98)，金融与投资 (100)，金融衍生工具 (99)
 * 海外交流: 邓迪大学, 英国（2021年秋季学期）；南乌拉尔国立大学，俄罗斯（2019年秋季学期）
 
 
@@ -29,22 +30,24 @@ redirect_from:
 * 北京市优秀本科毕业论文 (2022.11)
 * 北京市优秀毕业生 (2022.7)
 * 北京市三好学生 (2021.5)
+* 清华大学环境学院优秀学生干部（2023.6）
 * 中国石油大学校长奖 (2021.5)
 * 中国石油大学十佳大学生 (2020.11)
 * 中国石化奖学金 (2019.12)
 
+
 出版物和原创研究工作
 ------
 * 期刊论文  
-    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
-    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.19).  
+    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.2).  
+    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.8).  
     * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
 * 会议
     * **Li, Z. (speaker)**, Wang, C., Liu. Y. Predicting annual household water consumption using the water-energy nexus concept. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.  
     * **Li, Z. (speaker)**, Wang, C., Liu, Y. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.
 * 正在同行评审的论文
     * **Li, Z.**, Wang, C., Liu. Y. CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels.
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhance household water consumption prediction by water-energy nexus concept.
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhance household water consumption modelling by water-energy nexus concept: a case of Beijing, China.
     * Wang, C., Ni, X., **Li, Z.** et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
 * 研究项目
     * High-resolution simulation of urban household water-energy nexus based on consumption activities, 国家自然科学基金项目, 参与.
@@ -56,3 +59,17 @@ redirect_from:
 ------
 * Oct.2021 - Jan.2022: Intern
   * 中华人民共和国生态环境部，科技与财务司
+
+服务与领导经历
+------
+* 教学团队
+  * 社会计算（70670343），2023年春季
+  * 环境系统思维与大数据（00050131），2022年秋季
+* 助管
+  * 新生党支书，2024年秋季
+  * 院长助理（清华大学环境学院），2023年春季
+* 社会工作
+  * 《探臻科技评论》碳中和特刊，编辑，2023年4-7月
+  * 清华大学环境学院硕士2022级，团支部书记，2022年8月-至今，获评校班团养成计划“先进班团”
+  * 中国石油大学（北京）能源经济本2018级，团支部书记，2018年9月-2022年6月，获评北京市先锋杯优秀团支部
+  * 中国石油大学（北京）英语协会，主席，2020年9月-2021年6月
