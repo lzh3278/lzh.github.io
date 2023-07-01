@@ -9,7 +9,7 @@ You may also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Article
 ------
-* **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**.
+* **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**.  
   **Zonghan Li**, Chunyan Wang, Yi Liu. *Sci Data*, (2023). Accepted in principle.
 * **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**.  
   **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
