@@ -4,11 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*Last modified: 2022/3/18 19:00:00*  
+*Last modified: 2023/7/1 15:00:00*  
 You may also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=v66rmnsAAAAJ).
 
 Journal Article
 ------
+* **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**.
+  **Zonghan Li**, Chunyan Wang, Yi Liu. *Sci Data*, (2023). Accepted in principle.
 * **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**.  
   **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
 * **Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing**.  
