@@ -39,12 +39,12 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.2).  
-    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.8).
+    * **Li, Z.**, Wang, C., Liu. Y. (2023). An energy efficiency grade dataset for white goods in mainland China at regional and household levels. Sci Data.（Accepted in principle，SCI Q1，影响因子：9.8）
+    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084.（SCI Q1，影响因子：5.2） 
+    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685.（SCI Q2，影响因子：5.8）
 * 专著
     * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
 * 正在同行评审的论文
-    * **Li, Z.**, Wang, C., Liu. Y. CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels.
     * **Li, Z.**, Wang, C., Liu. Y. et al. Enhance household water consumption modelling by water-energy nexus concept: a case of Beijing, China.
     * Wang, C., Ni, X., **Li, Z.** et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
 * 研究项目
