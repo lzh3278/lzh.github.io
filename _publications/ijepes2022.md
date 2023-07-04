@@ -38,4 +38,5 @@ Behind the article
   * Major revise submitted: 6 December 2021
   * Accepted: 18 February 2022
   * Published online: 25 February 2022
+  * Published: September 2022
 * Project: Global Energy Prospective, a national-level SRT program.
