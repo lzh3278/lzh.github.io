@@ -3,7 +3,7 @@ title: "A dataset on energy efficiency grade of white goods in mainland China at
 collection: publications
 permalink: /publication/sdata2023
 excerpt: 'The China Energy Efficiency Grade (CEEG) dataset for WGs described here comprises (i) Energy efficiency grade (EEG) related data on 5 kinds of white goods at regional (national, provincial) and household levels in China and (ii) predictions of future average EEG trends. '
-date: 2022-07-03
+date: 2023-07-03
 venue: 'Scientific Data'
 paperurl: 'http://lzh3278.github.io/files/SciData2023.pdf'
 citation: 'Li, Z., Wang, C., Liu, Y. A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Sci. Data* (2023).'
