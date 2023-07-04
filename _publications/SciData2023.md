@@ -6,6 +6,7 @@ excerpt: 'The China Energy Efficiency Grade (CEEG) dataset for WGs described her
 date: 2022-07-03
 venue: 'Scientific Data'
 paperurl: 'http://lzh3278.github.io/files/SciData2023.pdf'
+citation: 'Li, Z., Wang, C., Liu, Y. A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Sci. Data* (2023).'
 ---
 Abstract
 -----
