@@ -31,9 +31,11 @@ Keywords
 * ARDL
 * Effective reproductive number (Rt)
 
-Timeline
+Behind the article
 ------
-* Submitted: 15 August 2021
-* Major revise submitted: 6 December 2021
-* Accepted: 18 February 2022
-* Published online: 25 February 2022
+* Timeline:
+  * Submitted: 15 August 2021
+  * Major revise submitted: 6 December 2021
+  * Accepted: 18 February 2022
+  * Published online: 25 February 2022
+* Project: Global Energy Prospective, a national-level SRT program.
