@@ -15,8 +15,7 @@ In addition to the tremendous loss of life due to coronavirus disease 2019 (COVI
 
 Workflow
 -----
-![Workflow of JEPE2022](http://lzh3278.github.io/files/ijepes2022.jpg)
-
+![Workflow of JEPE2022](http://lzh3278.github.io/files/workflow-ijepes2022.jpg)
 
 Highlights
 ------
