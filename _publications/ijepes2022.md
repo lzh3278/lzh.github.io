@@ -18,3 +18,10 @@ Highlights
 * In this article, we systematically reviewed and analyzed COVID-19 trends, policies and vital epidemiological indicators, quantifying the impact of COVID-19 on electricity consumption.
 * We introduced a data-driven approach to predict the electricity consumption in non-COVID-19 scenario.
 * We bridged the knowledge gap between key energy and epidemiological parameters, finding a statistic correlation between energy loss and effective reproductive number.
+
+Timeline
+------
+* Submitted: 15 August 2021
+* Major revise submitted: 6 December 2021
+* Accepted: 18 February 2022
+* Published online: 25 February 2022
