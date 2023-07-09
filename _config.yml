@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zonghan Li  李宗瀚"
 title_separator          : "-"
 name                     : &name "Zonghan Li"
-description              : &description "Wosi Guwozai（我司雇我在）"
+description              : &description "A master's student at THU"
 url                      : https://lzh3278.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lzh3278/lzh3278.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zonghan Li"
   avatar           : "Pic.jpg"
-  bio              : "Wosi Guwozai（我司雇我在）"
+  bio              : "A master's student at THU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzh3278"
+  github           : # "lzh3278"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lizonghan/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-0253-0139"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
