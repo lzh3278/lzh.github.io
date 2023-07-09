@@ -9,11 +9,11 @@ You may also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Article
 ------
-* **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**.  
-  **Zonghan Li**, Chunyan Wang, Yi Liu. *Sci Data*, (2023). [[Details]](https://lzh3278.github.io/publication/SciData2023)
-* **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**.  
+* **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**, data descriptor 
+  **Zonghan Li**, Chunyan Wang, Yi Liu. *Sci Data*, (2023). [[Details]](https://lzh3278.github.io/publication/sdata2023)
+* **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**, research article
   **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
-* **Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing**.  
+* **Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing**, research article
   Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environ Sci Pollut Re*, (2021) 28, 57667–57685.  [[Details]](https://lzh3278.github.io/publication/espr2021)
 
 Conferences
