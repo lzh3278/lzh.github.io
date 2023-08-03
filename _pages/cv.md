@@ -35,6 +35,24 @@ Awards and Honors
 * Top Ten Outstanding Students in China University of Petroleum (2020.11)
 * SINOPEC Scholarship (2019.12)
 
+Publications and Original Research Works
+------
+* Journal articles  
+    * **Li, Z.**, Wang, C., Liu. Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. (SCI Q1, Impact Factor: 9.8)
+    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.2).  
+    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.8).
+* Book
+    * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
+* Conference papers
+    * **Li, Z. (speaker)**, Wang, C., Liu. Y. Predicting annual household water consumption using the water-energy nexus concept. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.  
+    * **Li, Z. (speaker)**, Wang, C., Liu, Y. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.
+* Paper in peer review
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhance household water consumption prediction by water-energy nexus concept.
+    * Wang, C., Ni, X., **Li, Z.** et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
+* Research projects
+    * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
+    * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
+ 
 
 Research Experiences
 ------
@@ -52,23 +70,7 @@ Research Experiences
   * China University of Petroleum-Beijing.
   * Research purpose: to assess and quantify the effectiveness of the coal-to-gas policies in Beijing.
   * Supervisor: Professor Jianliang Wang.
-  
-Publications and Original Research Works
-------
-* Journal articles  
-    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.66).  
-    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.19).  
-    * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
-* Conference papers
-    * **Li, Z. (speaker)**, Wang, C., Liu. Y. Predicting annual household water consumption using the water-energy nexus concept. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.  
-    * **Li, Z. (speaker)**, Wang, C., Liu, Y. et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus. The 8th Applied Energy Symposium (CUE 2022), November 2022, Tokyo, Japan.
-* Paper in peer review
-    * **Li, Z.**, Wang, C., Liu. Y. CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels.
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhance household water consumption prediction by water-energy nexus concept.
-    * Wang, C., Ni, X., **Li, Z.** et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
-* Research projects
-    * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
-    * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
+
 
 Professional Experiences
 ------
