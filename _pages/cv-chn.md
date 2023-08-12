@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-*中文页面正在维护，最近更新于2023年7月1日 10:55:31*
+*中文页面正在维护，最近更新于北京时间2023年8月12日 10:55:31*
 
 教育经历
 ------
 **清华大学，工学硕士研究生，环境学院，2022-至今，导师：刘毅教授/院长**
 * GPA：3.97/4.00，专业课GPA：4.00/4.00，排名：N/A
 * 核心课程：环境经济（A），能源经济学与政策（A），社会计算（A），高级统计学（A），生态数据分析（A），机器学习（A），结构方程模型应用（A）
-* 国际交流：参加Watermatex（2023年9月于加拿大）、icRs（2023年8月于英国）、CUE（2022年11月于日本）等国际学术会议并展示
+* 国际交流：参加Watermatex（2023年9月于加拿大）、icRS（2023年8月于英国）、CUE（2022年11月于日本）等国际学术会议并展示
 
 **中国石油大学（北京），经济学学士，经济管理学院，2018-2022，导师：王建良教授/院长**
 * GPA：4.25/5.00，排名: 1/46
@@ -28,21 +28,21 @@ redirect_from:
 * 荣誉类：
     * 国家奖学金，2021.11
     * 国家奖学金，2020.11
-    * 北京市优秀本科毕业论文，2022.11
     * 北京市优秀毕业生，2022.7
     * 北京市三好学生，2021.5
     * 清华大学环境学院优秀学生干部，2023.6
     * 中国石油大学校长奖，2021.5
     * 中国石油大学十佳大学生，2020.11
     * 中国石化奖学金，2019.12
-* 学术类
+* 学术类：
     * 资源与可持续国际会议最佳口头汇报奖，2023.8
+    * 北京市优秀本科毕业论文，2022.11
 
 
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Wang, C., Liu. Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*.（SCI Q1，影响因子：9.8）
+    * **Li, Z.**, Wang, C., Liu. Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084（SCI Q1，影响因子：5.2） 
     * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685.（SCI Q2，影响因子：5.8）
 * 专著与评论
