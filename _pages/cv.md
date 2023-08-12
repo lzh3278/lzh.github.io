@@ -26,14 +26,17 @@ Education
 
 Awards and Honors
 ------
-* National Scholarship (2021.11)
-* National Scholarship (2020.11)
-* Outstanding Undergraduate Theis of Beijing (2022.11)
-* Outstanding Graduate of Beijing (2022.7)
-* Merit Student of Beijing (2021.5)
-* Dean’s Scholarship of China University of Petroleum (2021.5)
-* Top Ten Outstanding Students in China University of Petroleum (2020.11)
-* SINOPEC Scholarship (2019.12)
+* Honors
+    * National Scholarship (2021.11)
+    * National Scholarship (2020.11)
+    * Outstanding Graduate of Beijing (2022.7)
+    * Merit Student of Beijing (2021.5)
+    * Dean’s Scholarship of China University of Petroleum (2021.5)
+    * Top Ten Outstanding Students in China University of Petroleum (2020.11)
+    * SINOPEC Scholarship (2019.12)
+* Awards
+    * Best Young Scientist Oral Presentation 1st of International Conference on Resources Sustainability (2023.8)
+    * Outstanding Undergraduate Theis of Beijing (2022.11)
 
 Publications and Original Research Works
 ------
