@@ -42,13 +42,13 @@ Publications and Original Research Works
 ------
 * Journal articles  
     * **Li, Z.**, Wang, C., Liu. Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. (SCI Q1, Impact Factor: 9.8)
-    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.2).  
+    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. Int J Electr Power Energy Syst, 140, 108084. (SCI Q1, Impact Factor: 5.2).
+    * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*. (SCI Q1, Impact Factor: 12.8)
     * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. Environ Sci Pollut Re, 28, 57667–57685. (SCI Q2, Impact Factor: 5.8).
 * Book
     * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
 * Paper in peer review
     * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China.
-    * Wang, C., Ni, X., **Li, Z.** et al. Hourly resolution water and energy consumption prediction in households: revealing the water-energy nexus.
 * Research projects
     * High-resolution simulation of urban household water-energy nexus based on consumption activities, funded by NSFC, participated.
     * Environmental safety and sub-risk prevention and control of major epidemics, funded by NSFC, participated.
