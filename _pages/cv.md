@@ -27,8 +27,9 @@ Education
 Awards and Honors
 ------
 * Honors
-    * National Scholarship (2021.11)
-    * National Scholarship (2020.11)
+    * National Scholarship (for master's students, 2023.11)
+    * National Scholarship (for undergraduate students, 2021.11)
+    * National Scholarship (for undergraduate students, 2020.11)
     * Outstanding Graduate of Beijing (2022.7)
     * Merit Student of Beijing (2021.5)
     * Dean’s Scholarship of China University of Petroleum (2021.5)
@@ -74,6 +75,8 @@ Research Experiences
 
 Professional Experiences
 ------
+* Nov.2023 - Now: Intern
+  * Microsoft Research Asia, Microsoft Crop.
 * Oct.2021 - Jan.2022: Intern
   * Department of Science, Technology, and Finance, Ministry of Ecology and Environment of PRC
 
