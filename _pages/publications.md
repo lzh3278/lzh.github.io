@@ -10,11 +10,13 @@ You may also find my articles on [my Google Scholar profile](https://scholar.goo
 Journal Article
 ------
 * **An energy efficiency grade dataset for white goods in mainland China at regional and household levels**, data descriptor 
-  **Zonghan Li**, Chunyan Wang, Yi Liu. *Sci Data*, (2023). [[Details]](https://lzh3278.github.io/publication/sdata2023)
+  **Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, (2023). [[Details]](https://lzh3278.github.io/publication/sdata2023)
 * **Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity**, research article
-  **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *Int J Electr Power Energy Syst*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
+  **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, (2022) 140, 108084.  [[Details]](https://lzh3278.github.io/publication/ijepes2022)
+* **Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach**, research article
+  Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Wenlei Shi, Jia Zhang, Jiang Bian, Yi Liu. *Water Research*, (2023) 246, 120733. [[Details]](https://lzh3278.github.io/publication/wr2023)
 * **Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing**, research article
-  Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environ Sci Pollut Re*, (2021) 28, 57667–57685.  [[Details]](https://lzh3278.github.io/publication/espr2021)
+  Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science & Pollution Research*, (2021) 28, 57667–57685.  [[Details]](https://lzh3278.github.io/publication/espr2021)
 
 Conferences
 ------
