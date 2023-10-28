@@ -59,12 +59,12 @@ redirect_from:
     * 2021.4-2022.4：“能源互联网+氢能”可持续发展低碳经济模式研究，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
     * 2019.4-2021.4：Global Energy Prospective，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
 * 代表性课程论文
-  * Noise pollution management in the digital age: online complaints and government responses. (*社会计算*，2023年春季，成绩：A)
-  * Dynamic material flow analysis of nine polymers in 41 countries from 1950 to 2018. (*物质流分析及其应用*，2023年春季，成绩：A)
-  * Household water consumption: usage prediction and behaviour identification. (*机器学习*，2023年春季，成绩：A)
-  * 基于陈述偏好法的生态产品非市场价值研究：以密云水库鱼为例. (*环境经济*，2023年春季，成绩：A)
-  * 生态自然观、科学技术方法论与人工智能共驱的环境复杂系统研究展望. (*自然辩证法概论*，2023年春季，成绩：A+)
-  * COVID-19个人防护行为决策机制：主观风险、社区的作用和人群差异. (*结构方程模型应用*，2022年秋季，成绩：A)
+  * Noise pollution management in the digital age: online complaints and government responses.（*社会计算*，2023年春季，成绩：A）
+  * Dynamic material flow analysis of nine polymers in 41 countries from 1950 to 2018.（*物质流分析及其应用*，2023年春季，成绩：A）
+  * Household water consumption: usage prediction and behaviour identification.（*机器学习*，2023年春季，成绩：A）
+  * 基于陈述偏好法的生态产品非市场价值研究：以密云水库鱼为例.（*环境经济*，2023年春季，成绩：A）
+  * 生态自然观、科学技术方法论与人工智能共驱的环境复杂系统研究展望.（*自然辩证法概论*，2023年春季，成绩：A+）
+  * COVID-19个人防护行为决策机制：主观风险、社区的作用和人群差异.（*结构方程模型应用*，2022年秋季，成绩：A）
 
 工作经历
 ------
