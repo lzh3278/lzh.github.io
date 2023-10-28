@@ -1,4 +1,4 @@
-<img width="472" alt="image" src="https://github.com/lzh3278/lzh3278.github.io/assets/51193140/b53b0662-34df-440e-a04b-dbb1d165010e">---
+---
 layout: archive
 title: "个人简历"
 permalink: /cv/chn
