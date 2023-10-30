@@ -41,16 +41,16 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Wang, C., Liu. Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
+    * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084（SCI Q1，影响因子：5.7）
     * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. （SCI Q1，影响因子：12.8）
     * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685.（SCI Q2，影响因子：5.8）
-* 专著与评论
-    * Yu, J., Wang, J., **Li, Z.** et al. (2021). Live For the Day: Strategies to Survive and Cope with Oil Price Volatility. Beijing: Petroleum Industry Press. ISBN: 978-7-5183-4868-8. (Compiled the Chapter Fifteen Oil & Gas Around Us: Relevant to You and Me and the Chapter Seventeen Lifestyle choices: Urban, Rural or Suburban?).
-    * **李宗瀚**, 王建良, 冯连勇. (2021). "碳中和"博弈里的中国机遇. *能源*.
-* 正在同行评审的论文
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*, 大修中
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour.
+    * **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
+* 专著
+    * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
+* 原创研究工作
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. Submitted to *npj Clean Water*, 大修中
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
     * 2023.2-至今：人工智能赋能绿色发展社会实验研究，科学技术部国家重点研发项目，参与
