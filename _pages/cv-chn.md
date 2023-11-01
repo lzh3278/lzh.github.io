@@ -41,16 +41,16 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
-    * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084（SCI Q1，影响因子：5.7）
-    * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. （SCI Q1，影响因子：12.8）
-    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685.（SCI Q2，影响因子：5.8）
-    * **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
+    * [1] **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
+    * [2] **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084（SCI Q1，影响因子：5.7）
+    * [3] Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. （SCI Q1，影响因子：12.8）
+    * [4] Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685.（SCI Q2，影响因子：5.8）
+    * [5] **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
 * 专著
-    * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
+    * [1] 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
 * 原创研究工作
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. Submitted to *npj Clean Water*, 大修中
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
+    * [1] **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. Submitted to *npj Clean Water*, 大修中
+    * [2] **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
     * 2023.2-至今：人工智能赋能绿色发展社会实验研究，科学技术部国家重点研发项目，参与
@@ -59,12 +59,12 @@ redirect_from:
     * 2021.4-2022.4：“能源互联网+氢能”可持续发展低碳经济模式研究，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
     * 2019.4-2021.4：Global Energy Prospective，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
 * 代表性课程论文
-  * Noise pollution management in the digital age: online complaints and government responses.（*社会计算*，2023年春季，成绩：A）
-  * Dynamic material flow analysis of nine polymers in 41 countries from 1950 to 2018.（*物质流分析及其应用*，2023年春季，成绩：A）
-  * Household water consumption: usage prediction and behaviour identification.（*机器学习*，2023年春季，成绩：A）
-  * 基于陈述偏好法的生态产品非市场价值研究：以密云水库鱼为例.（*环境经济*，2023年春季，成绩：A）
-  * 生态自然观、科学技术方法论与人工智能共驱的环境复杂系统研究展望.（*自然辩证法概论*，2023年春季，成绩：A+）
-  * COVID-19个人防护行为决策机制：主观风险、社区的作用和人群差异.（*结构方程模型应用*，2022年秋季，成绩：A）
+  * [1] Noise pollution management in the digital age: online complaints and government responses.（*社会计算*，2023年春季，成绩：A）
+  * [2] Dynamic material flow analysis of nine polymers in 41 countries from 1950 to 2018.（*物质流分析及其应用*，2023年春季，成绩：A）
+  * [3] Household water consumption: usage prediction and behaviour identification.（*机器学习*，2023年春季，成绩：A）
+  * [4] 基于陈述偏好法的生态产品非市场价值研究：以密云水库鱼为例.（*环境经济*，2023年春季，成绩：A）
+  * [5] 生态自然观、科学技术方法论与人工智能共驱的环境复杂系统研究展望.（*自然辩证法概论*，2023年春季，成绩：A+）
+  * [6] COVID-19个人防护行为决策机制：主观风险、社区的作用和人群差异.（*结构方程模型应用*，2022年秋季，成绩：A）
 
 工作经历
 ------
@@ -80,10 +80,10 @@ redirect_from:
   * 环境系统思维与大数据（00050131），2022.9-2023.2
 * 社会工作
   * 清华大学学生能源经济协会筹备委员会，主席，2023.9-至今
-  * 清华大学环境学院硕2023级，党支部书记，2023.7-至今
+  * 清华大学环境学院硕2023级，党支部书记、带班助理，2023.7-至今
   * 清华大学《探臻科技评论》碳中和特刊，编辑，2023.4-2023.10
   * 清华大学环境学院院长学生助理，2023.2-2023.8
-  * 清华大学环境学院硕2022级，团支部书记，2022.8-至今，获评校班团养成计划“先进班团”
+  * 清华大学环境学院硕2022级，团支部书记，2022.8-至今，获评校班团养成计划“先进班团”、“卓越班团”
   * 中国石油大学（北京）英语协会，主席，2020.9-2021.6
   * 中国石油大学（北京）能源经济本2018级，团支部书记，2018.9-2022.6，获评北京市“先锋杯”优秀团支部
 * 志愿服务
