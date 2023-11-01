@@ -48,6 +48,8 @@ redirect_from:
     * **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
 * 专著
     * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
+* 公开数据集
+    * **Li, Z.**, Wang, C. & Liu, Y. (2023). CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels, *figshare*, https://doi.org/10.6084/m9.figshare.c.6234957.v1.
 * 原创研究工作
     * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. 投稿至*npj Clean Water*（SCI源刊，Nature Portfolio旗下期刊，影响因子：11.4）, 大修中
     * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
