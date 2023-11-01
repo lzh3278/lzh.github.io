@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-*中文页面正在维护，最近更新于北京时间2023年10月28日*
+*中文页面正在维护，最近更新于北京时间2023年11月1日*
 
 教育经历
 ------
@@ -16,7 +16,7 @@ redirect_from:
 * GPA：3.97/4.00，专业课GPA：4.00/4.00，排名：6/78
 * 研究方向：环境-经济-社会复杂系统分析
 * 核心课程：环境经济（A），能源经济学与政策（A），社会计算（A），高级统计学（A），生态数据分析（A），机器学习（A），结构方程模型应用（A），物质流分析及应用（A），复杂社会网络（上课中）
-* 国际交流：参加GCPC（2023年11月于上海）、Watermatex（2023年9月于加拿大）、icRS（2023年8月于英国）、CUE（2022年11月于日本）等国际学术会议并展示
+* 国际交流：参加GCPC（2023年11月于中国上海）、Watermatex（2023年9月于加拿大魁北克）、icRS（2023年8月于英国萨里）、CUE（2022年11月于线上）等国际学术会议并展示
 
 **中国石油大学（北京），经济学学士，经济管理学院，2018-2022**
 * GPA：4.25/5.00，排名: 1/46
@@ -26,9 +26,9 @@ redirect_from:
 荣誉奖项
 ------
 * 荣誉类：
-    * 研究生国家奖学金，2023.11
-    * 本专科国家奖学金，2021.11
-    * 本专科国家奖学金，2020.11
+    * 中华人民共和国研究生国家奖学金，2023.11
+    * 中华人民共和国本专科国家奖学金，2021.11
+    * 中华人民共和国本专科国家奖学金，2020.11
     * 北京市优秀毕业生，2022.7
     * 北京市三好学生，2021.5
     * 中国石油大学校长奖，2021.5
@@ -41,15 +41,15 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * [1] **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445.（SCI Q1，影响因子：9.8）
-    * [2] **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084（SCI Q1，影响因子：5.7）
-    * [3] Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. （SCI Q1，影响因子：12.8）
-    * [4] Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685.（SCI Q2，影响因子：5.8）
+    * [1] **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature Portfolio旗下期刊，影响因子：9.8）
+    * [2] **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
+    * [3] Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8）
+    * [4] Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685. https://doi.org/10.1007/s11356-021-14727-3.（SCI源刊，影响因子：5.8）
     * [5] **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
 * 专著
     * [1] 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
 * 原创研究工作
-    * [1] **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. Submitted to *npj Clean Water*, 大修中
+    * [1] **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. 投稿至*npj Clean Water*（SCI源刊，Nature Portfolio旗下期刊，影响因子：11.4）, 大修中
     * [2] **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
@@ -68,9 +68,11 @@ redirect_from:
 
 工作经历
 ------
+* 实习生，微软亚洲研究院，入职时间待定
 * 科研助理，清华大学环境学院，2021.9-至今
 * 实习生，中华人民共和国生态环境部科财司，2021.10-2022.1
 * 科研助理，中国石油大学（北京）经管学院，2020.2-2021.8
+* 研修生，みずほ銀行大连分行，2019.7-2019.8
 * 科研助理，中国石油大学（北京）机械学院，2019.4-2021.8
 
 服务与领导经历
@@ -84,8 +86,8 @@ redirect_from:
   * 清华大学《探臻科技评论》碳中和特刊，编辑，2023.4-2023.10
   * 清华大学环境学院院长学生助理，2023.2-2023.8
   * 清华大学环境学院硕2022级，团支部书记，2022.8-至今，获评校班团养成计划“先进班团”、“卓越班团”
-  * 中国石油大学（北京）英语协会，主席，2020.9-2021.6
-  * 中国石油大学（北京）能源经济本2018级，团支部书记，2018.9-2022.6，获评北京市“先锋杯”优秀团支部
+  * 中国石油大学英语协会，主席，2020.9-2021.6
+  * 中国石油大学能源经济本2018级，团支部书记，2018.9-2022.6，获评北京市“先锋杯”优秀团支部
 * 志愿服务
   * 志愿时长：649.5小时
   * 志愿岗位：清华大学艺术博物馆志愿者（现任）等
