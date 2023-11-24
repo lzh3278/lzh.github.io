@@ -41,6 +41,7 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*（SCI源刊，Nature Portfolio旗下期刊，影响因子：11.4）
     * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature Portfolio旗下期刊，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
     * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8）
@@ -51,13 +52,12 @@ redirect_from:
 * 公开数据集
     * **Li, Z.**, Wang, C. & Liu, Y. (2023). CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels, *figshare*, https://doi.org/10.6084/m9.figshare.c.6234957.v1.
 * 原创研究工作
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. 投稿至*npj Clean Water*（SCI源刊，Nature Portfolio旗下期刊，影响因子：11.4）, 大修中
     * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
     * 2023.2-至今：人工智能赋能绿色发展社会实验研究，科学技术部国家重点研发项目，参与
     * 2022.9-至今：重大疫情的环境安全与次生风险防控，国家自然科学基金重大项目，参与
-    * 2021.10-至今：基于居民消费的城市家庭水-能耦合系统高时空精度模拟，国家自然科学基金面上项目，参与
+    * 2021.9-2023.12：基于居民消费的城市家庭水-能耦合系统高时空精度模拟，国家自然科学基金面上项目，参与
     * 2021.4-2022.4：“能源互联网+氢能”可持续发展低碳经济模式研究，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
     * 2019.4-2021.4：Global Energy Prospective，教育部国家级大学生创新创业训练计划项目，主持. 成绩：A
 * 代表性课程论文
@@ -72,7 +72,7 @@ redirect_from:
 ------
 * 实习生，微软亚洲研究院，入职时间待定
 * 科研助理，清华大学环境学院，2021.9-至今
-* 实习生，中华人民共和国生态环境部科财司，2021.10-2022.1
+* 实习生，中华人民共和国生态环境部科技与财务司，2021.10-2022.1
 * 科研助理，中国石油大学（北京）经管学院，2020.2-2021.8
 * 研修生，みずほ銀行大连分行，2019.7-2019.8
 * 科研助理，中国石油大学（北京）机械学院，2019.4-2021.8
