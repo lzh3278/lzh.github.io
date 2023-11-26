@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-*中文页面正在维护，最近更新于北京时间2023年11月1日*
+*中文页面正在维护，最近更新于北京时间2023年11月26日*
 
 教育经历
 ------
 **清华大学，工学硕士研究生，环境学院，2022-至今**
 * GPA：3.97/4.00，专业课GPA：4.00/4.00，排名：6/78
 * 研究方向：环境-经济-社会复杂系统分析
-* 核心课程：环境经济（A），能源经济学与政策（A），社会计算（A），高级统计学（A），生态数据分析（A），机器学习（A），结构方程模型应用（A），物质流分析及应用（A），复杂社会网络（上课中）
+* 核心课程：环境经济（A），能源经济学与政策（A），社会计算（A），高级统计学（A），生态数据分析（A），机器学习（A），结构方程模型应用（A），物质流分析及应用（A），复杂社会理论（上课中）
 * 国际交流：参加GCPC（2023年11月于中国上海）、Watermatex（2023年9月于加拿大魁北克）、icRS（2023年8月于英国萨里）、CUE（2022年11月于线上）等国际学术会议并展示
 
 **中国石油大学（北京），经济学学士，经济管理学院，2018-2022**
@@ -41,11 +41,11 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*（SCI源刊，Nature Portfolio旗下期刊，影响因子：11.4）
-    * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature Portfolio旗下期刊，影响因子：9.8）
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*（SCI源刊，Nature旗下期刊，影响因子：11.4）
+    * * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8，导师第一作者）
+    * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature旗下期刊，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
-    * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8）
-    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685. https://doi.org/10.1007/s11356-021-14727-3.（SCI源刊，影响因子：5.8）
+    * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685. https://doi.org/10.1007/s11356-021-14727-3.（SCI源刊，影响因子：5.8，导师第一作者）
     * **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
 * 专著
     * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
