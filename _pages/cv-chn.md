@@ -42,7 +42,7 @@ redirect_from:
 ------
 * 期刊论文
     * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*（SCI源刊，Nature旗下期刊，影响因子：11.4）
-    * * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8，导师第一作者）
+    * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8，导师第一作者）
     * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature旗下期刊，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
     * Wang, J., **Li, Z.**, Ye, H. et al. (2021). Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing. *Environmental Science & Pollution Research*, 28, 57667–57685. https://doi.org/10.1007/s11356-021-14727-3.（SCI源刊，影响因子：5.8，导师第一作者）
