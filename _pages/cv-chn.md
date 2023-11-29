@@ -20,7 +20,7 @@ redirect_from:
 
 **中国石油大学（北京），经济学学士，经济管理学院，2018-2022**
 * GPA：4.25/5.00，排名: 1/46
-* 核心课程：能源经济学（92），能源金融（97），能源战略与政策（99），能源法（98），国际石油经济学（97），微观经济学（100），宏观经济学（99），计量经济学（100），Python编程（100），信息检索与网络资源利用（100），国际金融（98），金融与投资（100），金融衍生工具（99）
+* 核心课程：能源经济学（92），能源金融（97），能源战略与政策（99），能源法（98），国际石油经济学（97），微观经济学（100），宏观经济学（99），计量经济学（100），Python编程（100），信息检索与网络资源利用（100），国际金融（98），金融与投资（100），金融衍生工具（99），财务会计（100）
 * 国际交流: 邓迪大学, 英国（2021年秋季学期）；南乌拉尔国立大学，俄罗斯（2019年秋季学期）
 
 荣誉奖项
@@ -41,7 +41,6 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*（SCI源刊，Nature旗下期刊，影响因子：11.4）
     * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8，导师第一作者）
     * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature旗下期刊，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
@@ -49,10 +48,10 @@ redirect_from:
     * **李宗瀚**, 王建良, 冯连勇 (2021). "碳中和"博弈里的中国机遇. *能源*, 03, 33-36.
 * 专著
     * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
-* 公开数据集
-    * **Li, Z.**, Wang, C. & Liu, Y. (2023). CEEG, an energy efficiency grade dataset for white goods in mainland China at regional and household levels, *figshare*, https://doi.org/10.6084/m9.figshare.c.6234957.v1.
 * 原创研究工作
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. Under preparation.
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. 投稿至*npj Clean Water*期刊，大修后二审（SCI源刊，Nature旗下期刊，影响因子：11.4）
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. 投稿至*Nature Cities*期刊（Nature旗下期刊，暂无影响因子）
+    * **Li, Z.**, Wang, C., Liu. Y. Revealing the social impact of the water-energy nexus. *Engineering*期刊邀稿，稿件准备中（SCI源刊，中国工程院院刊，影响因子：12.8）
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
     * 2023.2-至今：人工智能赋能绿色发展社会实验研究，科学技术部国家重点研发项目，参与
@@ -70,12 +69,12 @@ redirect_from:
 
 工作经历
 ------
-* 实习生，微软亚洲研究院，入职时间待定
-* 科研助理，清华大学环境学院，2021.9-至今
-* 实习生，中华人民共和国生态环境部科技与财务司，2021.10-2022.1
-* 科研助理，中国石油大学（北京）经管学院，2020.2-2021.8
-* 研修生，みずほ銀行大连分行，2019.7-2019.8
-* 科研助理，中国石油大学（北京）机械学院，2019.4-2021.8
+* 实习生，微软 亚洲研究院，入职时间待定
+* 科研助理，清华大学 环境学院，2021.9-至今
+* 实习生，中华人民共和国生态环境部 科技与财务司，2021.10-2022.1
+* 科研助理，中国石油大学（北京） 经管学院，2020.2-2021.8
+* 研修生，みずほ銀行 大连分行，2019.7-2019.8
+* 科研助理，中国石油大学（北京） 机械学院，2019.4-2021.8
 
 服务与领导经历
 ------
