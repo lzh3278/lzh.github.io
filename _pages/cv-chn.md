@@ -41,6 +41,7 @@ redirect_from:
 出版物和原创研究工作
 ------
 * 期刊论文
+    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. *npj Clean Water*, accept in principle.（SCI源刊，Nature旗下期刊，影响因子：11.4）
     * Wang, C., **Li, Z.**, et al. (2023). Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach. *Water Research*, 246, 120733. https://doi.org/10.1016/j.watres.2023.120733.（SCI源刊，影响因子：12.8，导师第一作者）
     * **Li, Z.**, Wang, C., Liu, Y. (2023). A dataset on energy efficiency grade of white goods in mainland China at regional and household levels. *Scientific Data*, 10, 445. https://doi.org/10.1038/s41597-023-02358-x（SCI源刊，Nature旗下期刊，影响因子：9.8）
     * **Li, Z.**, Ye, H. et al. (2022). Impact of COVID-19 on electricity energy consumption: A quantitative analysis on electricity. *International Journal of Electrical Power & Energy Systems*, 140, 108084. https://doi.org/10.1016/j.ijepes.2022.108084.（SCI源刊，影响因子：5.7）
@@ -49,7 +50,6 @@ redirect_from:
 * 专著
     * 王建良, 赵林, 薛庆 (2022). 活在当下：油价生存与应对之道. 北京：石油工业出版社. ISBN: 978-7-5183-4868-8.
 * 原创研究工作
-    * **Li, Z.**, Wang, C., Liu. Y. et al. Enhancing the explanation of household water consumption through the water-energy nexus concept: a case in Beijing, China. 投稿至*npj Clean Water*期刊，大修后二审（SCI源刊，Nature旗下期刊，影响因子：11.4）
     * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. 投稿至*Nature Cities*期刊（Nature旗下期刊，暂无影响因子）
     * **Li, Z.**, Wang, C., Liu. Y. Revealing the social impact of the water-energy nexus. *Engineering*期刊邀稿，稿件准备中（SCI源刊，中国工程院院刊，影响因子：12.8）
 * 研究项目
