@@ -52,6 +52,7 @@ redirect_from:
 * 原创研究工作
     * **Li, Z.**, Wang, C., Liu. Y. et al. Balancing act: How stringent community measures shape environmental risk perception and behaviour. 投稿至*Nature Cities*期刊（Nature旗下期刊，暂无影响因子）
     * **Li, Z.**, Wang, C., Liu. Y. Revealing the social impact of the water-energy nexus. *Engineering*期刊邀稿，稿件准备中（SCI源刊，中国工程院院刊，影响因子：12.8）
+    * Pei, S., **Li, Z.** et al. Carbon Emissions from Urban Water System in China During 1980-2020. 稿件准备中.
 * 研究项目
     * 2023.2-至今：鄂尔多斯国家智能社会治理实验综合基地课题和场景研究，中央网信办项目，参与
     * 2023.2-至今：人工智能赋能绿色发展社会实验研究，科学技术部国家重点研发项目，参与
