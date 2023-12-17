@@ -57,4 +57,4 @@ Shiyu Pei, **Zonghan Li**, Chunyan Wang, Yi Liu.
 CV
 ------
 * Curriculum Vitae (To be updated)
-* [个人简历]<https://lzh3278.github.io/cv/chn> (Updated 2023/12/17)
+* [个人简历](https://lzh3278.github.io/cv/chn) (Updated 2023/12/17)
